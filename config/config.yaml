@@ -5,7 +5,7 @@
 llm:
   # Model settings (can override env vars)
   model: "qwen3.5-plus"
-  api_key: "sk-0460797a19f2473d81f7d0e6ba742b02"
+  api_key: here your api key
   base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
   temperature: 0.0
   max_tokens: 16384
